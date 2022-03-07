@@ -1,0 +1,12 @@
+# macos
+.DS_Store
+
+# intellij
+.idea
+.bsp
+
+# sbt
+target/
+
+
+*.iml
